@@ -35,8 +35,8 @@ Actualmente estoy fortaleciendo mis conocimientos en **JavaScript** y explorando
 ---
 
 ## 📈 Mis estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lauracoicue&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=lauracoicue&layout=compact&theme=radical)
 
 ---
 
