@@ -43,14 +43,12 @@ Actualmente estoy fortaleciendo mis conocimientos en **JavaScript** y explorando
 ## 📝 Proyectos Destacados
 - 🌐 **[Portafolio Web](#)** → Mi portafolio personal con Astro y React  
 - 📚 **[Proyecto Educativo](#)** → Plataforma de aprendizaje interactiva con enfoque en accesibilidad  
-- 🎮 **[Mini Juegos en React](#)** → Colección de juegos simples para practicar lógica y UI  
 
 ---
 
 ## 💬 Contáctame
-- 📧 **Correo:** tuemail@example.com  
-- 💼 [LinkedIn](#)  
-- 🖥️ [Portafolio](#)  
+- 📧 **Correo:** coicue.laura@correounivalle.edu.co  
+- 💼 [LinkedIn]()    
 
 ---
 ✨ Siempre abierta a aprender, colaborar y compartir conocimiento ✨
