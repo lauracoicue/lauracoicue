@@ -8,7 +8,7 @@ Actualmente estoy fortaleciendo mis conocimientos en **JavaScript** y explorando
 ## 🚀 Sobre mí
 - 🎓 Estudiante de Ingeniería en Sistemas  
 - 💻 Enfocada en el **desarrollo frontend**  
-- 🌱 Actualmente aprendiendo **Vue** y **Angular**  
+- 🌱 Actualmente aprendiendo **Vue**, **Angular** y **un poco de backend**  
 - ⚡ Me gusta crear proyectos que aporten valor y sean accesibles para las personas  
 - 📖 Apasionada por el aprendizaje constante y la exploración de nuevas tecnologías  
 
