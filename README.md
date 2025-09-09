@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Laura Coicue
+# ¡Hola! Soy Laura Coicue
 
 Soy estudiante de **Ingeniería en Sistemas** apasionada por el **desarrollo frontend** y la creación de interfaces web dinámicas y atractivas.  
 Actualmente estoy fortaleciendo mis conocimientos en **JavaScript** y explorando distintos frameworks modernos para el desarrollo web.
@@ -28,8 +28,7 @@ Actualmente estoy fortaleciendo mis conocimientos en **JavaScript** y explorando
 - Angular (aprendiendo)  
 
 ### Herramientas y Entornos
-- Git & GitHub  
-- VS Code  
+- Git & GitHub   
 - Figma (para prototipado y diseño)  
 
 ---
